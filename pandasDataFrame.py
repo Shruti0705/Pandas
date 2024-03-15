@@ -34,7 +34,7 @@ print(dict1)
 
 #list of dictionery
 
-ls_dict = [{'a':1, 'b':2}, {'a':3, 'b':4}]
+lists_dict = [{'a':1, 'b':2}, {'a':3, 'b':4}]
 df5 = pd.DataFrame(ls_dict)
 print(df5)
 
