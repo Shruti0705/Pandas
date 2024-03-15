@@ -34,13 +34,13 @@ print(dict1)
 
 #list of dictionery
 
-lists_dict = [{'a':1, 'b':2}, {'a':3, 'b':4}]
-df5 = pd.DataFrame(ls_dict)
+list_dict = [{'a':1, 'b':2}, {'a':3, 'b':4}]
+df5 = pd.DataFrame(list_dict)
 print(df5)
 
 
-ls_dict = [{'a':1, 'b':2}, {'a':3, 'b':4, 'c':5}]
-df5 = pd.DataFrame(ls_dict)
+list_dict = [{'a':1, 'b':2}, {'a':3, 'b':4, 'c':5}]
+df5 = pd.DataFrame(list_dict)
 print(df5)
 
 
